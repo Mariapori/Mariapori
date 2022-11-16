@@ -28,4 +28,4 @@ Apple Macbook Pro 2022, M2 13" 16GB 512GB
 
 
 ## ⛳ Hobbies
-Golf, Programming
+Programming
