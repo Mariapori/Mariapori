@@ -5,8 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariapori&theme=darcula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mariapori)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🚀 About Me
 I'm a self-taught full stack developer
