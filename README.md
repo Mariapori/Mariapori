@@ -1,7 +1,7 @@
 
 # Topias Mariapori
 
-![Mariapori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariapori&show_icons=true&theme=darcula)
+![Mariapori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariapori&count_private=true&show_icons=true&theme=darcula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariapori&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
