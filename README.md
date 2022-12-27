@@ -22,7 +22,7 @@ React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET
 
 
 ## 💻 Hardware
-Custom PC: i5-13600k, 32GB DDR5, RTX 3070-Ti
+Custom PC: i5-13600K, 32GB DDR5, RTX 3070-Ti
 
 
 
