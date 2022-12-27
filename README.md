@@ -22,7 +22,7 @@ React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET
 
 
 ## 💻 Hardware
-Apple Macbook Pro 2022, M2 13" 16GB 512GB
+Custom PC: i5-13600k, 32GB DDR5, RTX 3070-Ti
 
 
 
