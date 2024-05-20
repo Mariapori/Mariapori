@@ -24,6 +24,7 @@ React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET
 ## 💻 Hardware
 
 Apple Macbook Air M1 2020
+
 Dell Precision 3551
 
 
