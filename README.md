@@ -17,15 +17,13 @@ and enjoying write code.
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C#, PHP, Python,
-React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET MVC
+React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET MVC, Blazor, WebForms
 
 
 
 ## 💻 Hardware
 
 Apple Macbook Air M1 2020
-
-Dell Precision 3551
 
 
 ## ⛳ Hobbies
