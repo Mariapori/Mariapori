@@ -29,4 +29,5 @@ Apple Macbook Air M1 2020
 ## ⛳ Hobbies
 
 Programming
+
 MTB
