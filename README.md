@@ -22,14 +22,21 @@ React, Java, Mobile Development, Web Development, SQL, Entity Framework, ASP.NET
 
 
 ## 💻 Hardware
-HP EliteBook 8470p
+# HP EliteBook 8470p
 OS: Manjaro 25.0.8 Zetar
+
 Kernel: x86_64 Linux 6.12.44-3-MANJARO
+
 Shell: zsh 5.9
+
 DE: Xfce4
+
 WM: Xfwm4
+
 CPU: Intel Core i5-3230M @ 4x 3.2GHz
+
 GPU: Mesa Intel(R) HD Graphics 4000 (IVB GT2)
+
 RAM: 8GB
 
 
